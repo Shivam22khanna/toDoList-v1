@@ -1,2 +1,2 @@
 # toDoList-v1
-This is version one of toDoList website
+This is a version one of toDoList website
